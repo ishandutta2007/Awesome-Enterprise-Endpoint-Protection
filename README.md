@@ -10,6 +10,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Endpoint-Protection/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Enterprise-Endpoint-Protection?style=social&color=white" alt="GitHub Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Endpoint-Protection/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Enterprise-Endpoint-Protection?style=social&color=white" alt="GitHub Forks"/></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg" alt="License: CC0-1.0"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/folloeers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ---
@@ -28,6 +29,8 @@
   - [Open-Source Solutions Deep Dive](#-open-source-solutions-deep-dive)
 - [📊 Comparison at a Glance](#-comparison-at-a-glance)
 - [🔍 Key Evaluation Criteria for SecOps Teams](#-key-evaluation-criteria-for-secops-teams)
+- [⭐ Star History](#-star-history)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
 
@@ -221,6 +224,23 @@ When choosing an endpoint security solution, enterprise architecture and securit
 3. **Operating System Parity**: Verify functional parity across Windows, macOS, and diverse Linux distributions (Ubuntu, RHEL, Alpine, Debian). Many commercial solutions offer superior Windows features while providing reduced functionality on Linux container nodes.
 4. **Agent Resource Footprint & Stability**: Gauge agent memory, CPU overhead, and kernel stability. Modern solutions leverage user-space agents and eBPF probes on Linux to avoid kernel panics and operational disruptions.
 5. **Air-Gapped & Sovereign Data Mandates**: If operating under strict data privacy regulations (e.g., GDPR, CCPA, FedRAMP, HIPAA) or in air-gapped industrial environments, open-source solutions like Wazuh, osquery, and Velociraptor provide absolute infrastructure isolation.
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Enterprise-Endpoint-Protection&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Enterprise-Endpoint-Protection&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Sponsorship ☕
+
+Thank you so much for exploring this curated directory! If you find this resource helpful for your organization, research, or security architecture:
+
+- ⭐ **Star this repository** to help others in the Infosec and DevOps community discover it.
+- 🍴 **Fork and contribute** by submitting new open-source tools or commercial platform updates.
+- 📢 **Share this repo** with your colleagues, SecOps teams, and cybersecurity peers.
+- ☕ **Buy me a coffee / Sponsor**: If you'd like to support ongoing maintenance and new enterprise security research, consider sponsoring through the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007). Your support is deeply appreciated!
 
 ---
 
